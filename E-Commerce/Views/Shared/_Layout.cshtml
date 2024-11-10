@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - E_Commerce</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/CustomerLayout/Navbar.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/E_Commerce.styles.css" asp-append-version="true" />
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+</head>
+<body>
+    <div class="nav-bar" id="page">
+    <header>
+      <div class="inner-header">
+        <div class="container wide">
+            <div class="wrap">
+                <div class="header-left">
+                    <div class="menu-bar"><a href="" class="menu-trigger"><i class="ri-menu-line"></i></a></div>
+                    <div class="list-inline">
+                        <ul>
+                            <li><a href=""><i class="ri-user-line"></i></a></li>
+                            <li><a href=""><span class="item-floating">7</span>
+                            <i class="ri-star-line"></i></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="header-center">
+                    <nav class="menu">
+                        <ul>
+                            <li><a href=""><span>Home</span></a></li>
+                            <li><a href=""><span>Products</span>
+                            <i class="ri-arrow-down-s-line"></i></a></li>
+                           
+                        </ul>
+                        <ul>
+                             <li><a href=""><span>Disc</span></a></li>
+                            <li><a href=""><span>Categories</span>
+                            <i class="ri-arrow-down-s-line"></i></a>
+                            <ul class="sub-menu list-block">
+                                <li><a href="">rrrrrrrrrrrrrrr</a></li>
+                                <li><a href="">Dior</a></li>
+                                <li><a href="">Dior</a></li>
+                                <li><a href="">Dior</a></li>
+                                <li><a href="">Dior</a></li>
+                            </ul>
+                            </li>
+                            <li><a href=""><span>Contacts</span></a></li>
+                        </ul>
+                    </nav>
+                    <div class="branding"><a href="">Rabi</a></div>
+                </div>
+                <div class="header-right">
+                    <div class="list-inline">
+                        <ul>
+                            <li><a href=""><i class="ri-search-line"></i></a></li>
+                            <li><a href=""><span class="item-floating">0</span><i class="ri-shopping-bag-line"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    </header>
+        </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted ">
+        <div class="container">
+            &copy; 2024 - E_Commerce - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

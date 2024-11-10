@@ -1,0 +1,175 @@
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.inner-header {
+  line-height: 80px;
+}
+
+.container {
+  max-width: auto;
+  padding: 0px;
+  margin: 0 auto;
+}
+.item-floating {
+  position: absolute;
+  font-size: 8px;
+  font-weight: 600;
+  top: -10px;
+  right: 8px;
+  color: #fff;
+  background-color: seagreen;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.item-floating,
+.header-center .branding {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-block a {
+  position: relative;
+  font-size: 14px;
+  color: gray;
+  padding: 5px 0;
+
+  display: inline-block;
+  transition: var(--transition-color);
+}
+.list-block a:hover {
+  color: #000;
+}
+
+.list-block a::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background-color: #000;
+  left: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.list-block a:hover::before {
+  width: 8px;
+  height: 8px;
+}
+
+/* Headers */
+
+.inner-header :where(.wrap, .menu > ul),
+.list-inline > ul {
+  display: flex;
+
+  align-items: center;
+}
+.header-left,
+.header-right {
+  flex-grow: 1;
+}
+.header-center nav {
+  display: none;
+  grid-template-columns: 1fr 1fr;
+  gap: 180px;
+  max-width: 720px;
+}
+
+.header-center .branding {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  pointer-events: none;
+}
+
+.header-center .branding a {
+  font-size: 30px;
+  line-height: inherit;
+  pointer-events: auto;
+  text-decoration: none;
+}
+
+.header-center .menu > ul > li > a {
+  font-size: 14px;
+  font-weight: 600px;
+  text-transform: uppercase;
+  padding: 0 15px;
+  text-decoration: none;
+  display: flex;
+  gap: 5px;
+}
+.header-right ul {
+  justify-content: flex-end;
+}
+
+.list-inline a,
+.menu-trigger {
+  position: relative;
+  font-size: 16px;
+  padding: 0 24px;
+  line-height: 1;
+  display: flex;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.list-inline a:hover {
+  color: gray;
+}
+
+.header-left .list-inline {
+  display: none;
+}
+:where(.header-left, .header-right) li {
+  display: flex;
+  align-items: center;
+  height: 80px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+/* Responsive */
+@media (min-width: 1024px) {
+  .menu-trigger {
+    display: none;
+  }
+  .header-center nav {
+    display: grid;
+  }
+  .header-left .list-inline {
+    display: block;
+  }
+
+  /* Sub Menu */
+  nav.menu .sub-menu {
+    position: absolute;
+    top: auto;
+    line-height: initial;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.21);
+
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  nav.menu .sub-menu li {
+    padding: 5px 10px;
+  }
+}
