@@ -1,0 +1,20 @@
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.AssemblyInfo.cs
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.sourcelink.json
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.deps.json
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.runtimeconfig.json
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Business Logic.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Data.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Business Logic.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Data.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commer.F1A1F0FE.Up2Date
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\refint\E-Commerce.Infrastructure.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.genruntimeconfig.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Infrastructure\obj\Debug\net8.0\ref\E-Commerce.Infrastructure.dll

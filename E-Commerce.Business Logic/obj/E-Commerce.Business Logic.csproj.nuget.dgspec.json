@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj": {}
+    "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj": {
+    "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj",
+        "projectUniqueName": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj",
         "projectName": "E-Commerce.Business Logic",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Business Logic\\obj\\",
+        "projectPath": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Business Logic\\E-Commerce.Business Logic.csproj",
+        "packagesPath": "C:\\Users\\wahyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Business Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wahyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\E-Commerce.Data.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\E-Commerce.Data.csproj"
+              "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\E-Commerce.Data.csproj": {
+                "projectPath": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\E-Commerce.Data.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\E-Commerce.Data.csproj": {
+    "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\E-Commerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\E-Commerce.Data.csproj",
+        "projectUniqueName": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\E-Commerce.Data.csproj",
         "projectName": "E-Commerce.Data",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\E-Commerce.Data.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Coding\\E-Commerce\\E-Commerce.Data\\obj\\",
+        "projectPath": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\E-Commerce.Data.csproj",
+        "packagesPath": "C:\\Users\\wahyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wahyu\\OneDrive\\Desktop\\Coding\\NLayerNet\\E-Commerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wahyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

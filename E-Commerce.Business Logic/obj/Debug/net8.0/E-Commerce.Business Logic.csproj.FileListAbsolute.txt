@@ -1,0 +1,16 @@
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\bin\Debug\net8.0\E-Commerce.Business Logic.deps.json
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\bin\Debug\net8.0\E-Commerce.Business Logic.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\bin\Debug\net8.0\E-Commerce.Business Logic.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\bin\Debug\net8.0\E-Commerce.Data.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\bin\Debug\net8.0\E-Commerce.Data.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.csproj.AssemblyReference.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.AssemblyInfoInputs.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.AssemblyInfo.cs
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.csproj.CoreCompileInputs.cache
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.sourcelink.json
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commer.5341D968.Up2Date
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\refint\E-Commerce.Business Logic.dll
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\E-Commerce.Business Logic.pdb
+C:\Users\wahyu\OneDrive\Desktop\Coding\NLayerNet\E-Commerce.Business Logic\obj\Debug\net8.0\ref\E-Commerce.Business Logic.dll

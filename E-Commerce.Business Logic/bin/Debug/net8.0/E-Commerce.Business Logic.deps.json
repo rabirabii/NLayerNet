@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "E-Commerce.Business Logic/1.0.0": {
+        "dependencies": {
+          "E-Commerce.Data": "1.0.0"
+        },
+        "runtime": {
+          "E-Commerce.Business Logic.dll": {}
+        }
+      },
+      "E-Commerce.Data/1.0.0": {
+        "runtime": {
+          "E-Commerce.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Commerce.Business Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E-Commerce.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
